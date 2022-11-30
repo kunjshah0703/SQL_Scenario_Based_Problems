@@ -16,3 +16,10 @@ Q3. Find 20 % of products which are giving 80 % sales revenue.
 Please find dataset attached (superstore)
 
 Please find solution in Pareto_Principe_80_20.sql file.
+
+Q4. Write a query to find personID, Name, number of friends, sum of marksof person who have friends with total score greater than 100.
+
+Person Table : ![image](https://user-images.githubusercontent.com/72154374/204834671-f534f41c-6b37-43b7-b917-0fa49752fc38.png)
+Friends Table : ![image](https://user-images.githubusercontent.com/72154374/204834842-7592dd25-c73e-4699-8d2f-7764010a4d8a.png)
+
+Please find solution in Friend_Score_Scenario_Based_Having.sql file.
