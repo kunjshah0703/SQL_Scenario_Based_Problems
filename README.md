@@ -11,3 +11,8 @@ Please find solution in Noofvisits_Scenario_based_Question sql file.
 Q2. Write a Query to provide the date for nth occurence of Sunday in future from given date ?
 
 Please find solution in nthSundayOccurrence_Scenario_based_Question sql file.
+
+Q3. Find 20 % of products which are giving 80 % sales revenue.
+Please find dataset attached (superstore)
+
+Please find solution in Pareto_Principe_80_20.sql file.
